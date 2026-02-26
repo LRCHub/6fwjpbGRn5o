@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Purity（feat. 藍月なくる）",
+  "base_artist": "花鋏キョウ",
+  "createdAt": "2026-02-26T09:31:31.328982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Purity (feat. Frank Ocean)",
+      "artist": "A$AP Rocky feat. Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Purity_(feat._Frank_Ocean)_A$AP_Rocky_feat._Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Purity (feat. Frank Ocean)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/02_Purity_(feat._Frank_Ocean)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Purity (feat. Frank Ocean)",
+      "artist": "A$AP Rocky, Frank Ocean",
+      "has_synced": true,
+      "path": "select/03_Purity_(feat._Frank_Ocean)_A$AP_Rocky,_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Purity (feat. Iko)",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/04_Purity_(feat._Iko)_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Purity (feat",
+      "artist": "A$AP Rocky/Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Purity_(feat_A$AP_Rocky_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Purity (feat․ Frank Ocean)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/06_Purity_(feat._Frank_Ocean)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Purity (feat. 藍月なくる)",
+      "artist": "花鋏キョウ",
+      "has_synced": false,
+      "path": "select/pl_01_Purity_(feat._藍月なくる)_花鋏キョウ.txt"
+    }
+  ]
+}
